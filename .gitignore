@@ -1,0 +1,9 @@
+**/CMakeOut/
+**/build/
+x64/
+.vs/
+.vscode/
+*.user
+.vscode
+*.pdb
+*.bak
